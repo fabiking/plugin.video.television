@@ -20,7 +20,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Televisión espanola y latino americana</summary>
+    <summary>Television espanola y latino americana</summary>
     <description>Recopilación de canales de habla hispana.</description>
     <platform>all</platform>
   </extension>
