@@ -21,7 +21,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Television espanola y latino americana</summary>
-    <description>Recopilación de canales de habla hispana.</description>
+    <description>Recopilacion de canales de habla hispana.</description>
     <platform>all</platform>
   </extension>
 </addon>
