@@ -116,7 +116,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"description": ": Lista de Canales para el Livestreamspro :", "title": "Television ", "url": "http://pastebin.com/raw.php?i=pMrJLAJ5", "fanart": "http://i.imgur.com/7izulmv.jpg", "genre": "Tv Live", "date": "13.02.2015", "credits": "fabian", "thumbnail": "http://i.imgur.com/MWSXNtp.png"}]
+SOURCES = [{"description": ": Lista de Canales para el Livestreamspro :", "title": "Television ", "url": "http://pastebin.com/raw.php?i=pMrJLAJ5", "fanart": "http://i.imgur.com/k0E5sdR.jpg", "genre": "Tv Live", "date": "13.02.2015", "credits": "fabian", "thumbnail": "http://i.imgur.com/Ug1oZKp.jpg"}]
 
 # http://i.imgur.com/GyK9PGj.jpg
 # http://i.imgur.com/eklZFBE.png
